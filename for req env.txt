@@ -1,0 +1,6 @@
+For Extraction:
+pip freeze > requirements.txt
+
+
+For installation:
+pip install -r requirements.txt
